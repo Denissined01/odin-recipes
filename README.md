@@ -1,0 +1,1 @@
+I think the project is about the basics of crating a webstite.
